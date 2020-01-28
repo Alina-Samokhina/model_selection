@@ -1,4 +1,4 @@
-# Homeworks from course on model_selection.
+## Homeworks from course on model selection.
 
 There are both theoretical and practical tasks.
 
